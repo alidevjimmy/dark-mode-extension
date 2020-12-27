@@ -1,67 +1,67 @@
-document.querySelector("body").style.cssText= "background-color: white !important;color:white !important";
+document.querySelector("body").style.cssText= "background-color: unset !important;color:unset !important";
 var div = document.getElementsByTagName("div");
 for (let i = 0 ; i < div.length;i++) {
-    div[i].style.cssText = "color: black;background-color: white !important"
+    div[i].style.cssText = "color: unset;background-color: unset !important"
 }
 var section = document.getElementsByTagName("section");
 for (let i = 0 ; i < section.length;i++) {
-    section[i].style.cssText = "background-color: white !important"
+    section[i].style.cssText = "background-color: unset !important"
 }
 var article = document.getElementsByTagName("article");
 for (let i = 0 ; i < article.length;i++) {
-    article[i].style.cssText = "background-color: white !important"
+    article[i].style.cssText = "background-color: unset !important"
 }
 var main = document.getElementsByTagName("main");
 for (let i = 0 ; i < main.length;i++) {
-    main[i].style.cssText = "background-color: white !important"
+    main[i].style.cssText = "background-color: unset !important"
 }
 var p = document.getElementsByTagName("p")
 for (var i = 0 ; i < p.length ; i++) {
-    p[i].style.cssText = "color: black !important"
+    p[i].style.cssText = "color: unset !important"
 }
 var span = document.getElementsByTagName("span")
 for (var i = 0 ; i < span.length ; i++) {
-    span[i].style.cssText = "color: black !important"
+    span[i].style.cssText = "color: unset !important"
 }
 var small = document.getElementsByTagName("small")
 for (var i = 0 ; i < small.length ; i++) {
-    p[i].style.cssText = "color: black !important"
+    p[i].style.cssText = "color: unset !important"
 }
 var h1 = document.getElementsByTagName("h1")
 for (var i = 0 ; i < h1.length ; i++) {
-    h1[i].style.cssText = "color: black !important"
+    h1[i].style.cssText = "color: unset !important"
 }
 var h2 = document.getElementsByTagName("h2")
 for (var i = 0 ; i < h2.length ; i++) {
-    h2[i].style.cssText = "color: black !important"
+    h2[i].style.cssText = "color: unset !important"
 }
 var h3 = document.getElementsByTagName("h3")
 for (var i = 0 ; i < h3.length ; i++) {
-    h3[i].style.cssText = "color: black !important"
+    h3[i].style.cssText = "color: unset !important"
 }
 var h4 = document.getElementsByTagName("h4")
 for (var i = 0 ; i < h4.length ; i++) {
-    h4[i].style.cssText = "color: black !important"
+    h4[i].style.cssText = "color: unset !important"
 }
 var h5 = document.getElementsByTagName("h5")
 for (var i = 0 ; i < h5.length ; i++) {
-    h5[i].style.cssText = "color: black !important"
+    h5[i].style.cssText = "color: unset !important"
 }
 var h6 = document.getElementsByTagName("h6")
 for (var i = 0 ; i < h6.length ; i++) {
-    h6[i].style.cssText = "color: black !important"
+    h6[i].style.cssText = "color: unset !important"
 }
 var ul = document.getElementsByTagName("ul")
 for (var i = 0 ; i < ul.length ; i++) {
-    ul[i].style.cssText = "color: black !important"
+    ul[i].style.cssText = "color: unset !important"
 }
 var li = document.getElementsByTagName("li")
 for (var i = 0 ; i < li.length ; i++) {
-    li[i].style.cssText = "color: black !important"
+    li[i].style.cssText = "color: unset !important"
 }
 var b = document.getElementsByTagName("b")
 for (var i = 0 ; i < b.length ; i++) {
-    b[i].style.cssText = "color: black !important"
+    b[i].style.cssText = "color: unset !important"
 }
 var a = document.getElementsByTagName("a")
 for (var i = 0 ; i < a.length ; i++) {
